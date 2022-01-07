@@ -1,8 +1,7 @@
 ### Welcome! 👋
 
 
-- 🔭 I’m currently working on ... C#
-- 🌱 I’m currently learning ... Python & YOLOL
+- 🔭 I’m currently working in C#
 - 📫 How to reach me: ... [Website](https://nicholson.codes/)
-- 😄 Pronouns: ... He/Him
+
 
