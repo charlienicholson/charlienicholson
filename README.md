@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working in Python, Java (Groovy) and C#
-- 📫 How to reach me: ... [Website](https://nicholson.codes/)
+- 🕸️ More about me: ... [Website](https://nicholson.codes/)
 
 
